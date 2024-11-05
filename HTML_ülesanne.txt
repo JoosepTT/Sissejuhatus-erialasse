@@ -1,0 +1,60 @@
+<html><head>
+<title>Lehe päis</title>
+</head>
+<body>
+
+<h1>Tartu linn</h1>
+<p>Käesolev veebileht tutvustab Eesti kultuuripealinna Tartut ja annab ülevaate linnas toimuva kohta. Siin on informatsiooni nii linna enda kui ka erinevate muude sellega seotud teemadega.</p>
+
+<p>Rohkem infot: <a
+href="https://visittartu.com/et/"
+target="_blank"
+>Visit Tartu</a></p>
+
+<img
+src="https://visitestonia.com/content-images/630438/tartu-en-001-visit-estonia.jpg" alt="pilt Tartust"
+    width="600">
+
+<h2>Miks on Tartu eriline</h2>
+<ul>
+    <li>Tartu linnaplaan on kompaktne ja hubane - 15 minutiga j
+        uad igale poole.</li>
+    <li>Tegemist on rohelise linnaga nii looduse kui ka infrastruktuuri poolest: Tartus on lisaks bussivõrgustikule ka linnarataste terminalid.</li>
+    <br>
+    <li><h3>Tegevused</h3></li>
+        <ul>
+            <li>Raekoja platsi ja vanalinna tuur.</li>
+            <li>ERM ehk Eesti rahva muuseumi külastamine: muuseum annab tervikliku ülevaate Eesti ajaloost.</li>
+            <li>Ajaloolise teater Vanemuise külastamine.</li>
+            <li>peretegevused:</li>
+                <ul>
+                    <li>Teaduskeskus Ahhaa külastamine.</li>
+                    <li>Aura veekeskuse külastus.</li>
+                    <li>Tartu ülikooli loodusmuuseumi uudistamine.</li>
+                </ul>
+            </ul>
+        </ul>
+    </ul>
+</ul>    
+<br>
+
+<table border="1">
+    <tr>
+        <th>Tulp 1</th>
+        <th>Tulp 2</th>
+        <th>Tulp 3</th>
+    </tr>
+    <tr>
+        <td rowspan="2">Rida 1 Tulp 1</td>
+        <td>Rida 1 Tulp 2</td>
+    <tr>
+        <td>Rida 2 Tulp 2</td>
+    </tr>
+</table>
+
+</a></p>
+
+
+
+    
+</body></html>
